@@ -1,6 +1,5 @@
 
-/*  Author
-	  3. M Basim Irfan (23L-0846)*/
+/*  Author: M Basim Irfan (23L-0846)*/
 
 #include<iostream>
 #include<fstream>
@@ -1094,3 +1093,4 @@ int main()
 	return 0;
 
 }
+
