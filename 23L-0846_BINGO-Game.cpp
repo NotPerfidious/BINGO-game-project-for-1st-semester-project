@@ -1,8 +1,5 @@
 
-/*    GROUP MEMBERS   
-
-      1. Umer Mujahid (23L-0774)
-	  2. Umer Karamat (23L-0873)
+/*  Author
 	  3. M Basim Irfan (23L-0846)*/
 
 #include<iostream>
@@ -1095,4 +1092,5 @@ int main()
 	system("pause");
 
 	return 0;
+
 }
